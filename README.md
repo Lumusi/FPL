@@ -1,1 +1,1 @@
-# FPL
+# fpl-predictor
